@@ -27,8 +27,11 @@ Pandora FMS is a monitoring tool that not only measures if a parameter is right 
 ###Screenshots
 ![screenshot 1](http://pandorafms.com/github/agent_list.png)
 <br />
+<br />
 ![screenshot 2](http://pandorafms.com/github/captura_pantalla5.png)
 <br />
+<br />
 ![screenshot 3](http://pandorafms.com/github/pandora_sla_report2.png)
+<br />
 <br />
 ![screenshot 4](http://pandorafms.com/github/services.png)
