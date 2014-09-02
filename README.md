@@ -1,5 +1,6 @@
 <a href="http://pandorafms.com"><img src="http://pandorafms.com/github/logo_2.png" align="left" hspace="10" vspace="6"></a>Pandora FMS is a monitoring software for IT infrastructure management which includes network equipment, Windows and Unix servers, virtual infrastructure and all different kind of applications. It has a large amount of features, making it a new generation software which discovers all the monitoring issues that an organization may need. 
-
+<br />
+<br />
 ###How to install Pandora FMS
 
 Installing Pandora FMS is a very easy task. Please visit our wiki and follow all the steps described for a quick and proper installation. http://wiki.pandorafms.com/index.php?title=Pandora:Documentation_en:Installing
